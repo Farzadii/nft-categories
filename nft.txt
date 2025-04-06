@@ -1,3 +1,4 @@
 NFT Categories
 Art NFTs: Digital artwork and collectibles.
 Gaming NFTs: In-game items and assets.
+Music NFTs: Songs and albums as tokens.
